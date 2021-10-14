@@ -9,18 +9,14 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>co.edu.udem.devops.taller1</groupId>
-	<artifactId>Taller1-4F</artifactId>
+	<artifactId>sampleServletsUdeM4F</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Taller1-4F</name>
+	<name>sampleServletsUdeM4F</name>
 	<description>Taller 1 DevOps UdeM</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
 	<dependencies>
-		<!--<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-thymeleaf</artifactId>
-		</dependency>-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
