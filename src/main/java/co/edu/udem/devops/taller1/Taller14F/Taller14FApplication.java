@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Taller14FApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Hola mundo");
 		SpringApplication.run(Taller14FApplication.class, args);
 	}
 
